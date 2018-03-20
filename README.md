@@ -20,7 +20,7 @@ Below, I have attached screenshots which replicate the functions which are protr
 <img width="1440" alt="bamazon customer - using x to exit shopping" src="https://user-images.githubusercontent.com/34965292/37640460-e8c49ca0-2bd2-11e8-84d7-c4c86e28f70b.png">
 <img width="1440" alt="bamazon customer - updated qty after initial purchase" src="https://user-images.githubusercontent.com/34965292/37640461-e8dd87a6-2bd2-11e8-8d64-651a1a43a368.png">
 
-
+## Bamazon Customer GIF:  <a href="https://imgflip.com/gif/26qtg2"><img src="https://i.imgflip.com/26qtg2.gif" title="made at imgflip.com"/></a>
 
 
 #  Here we have photos for the BAMAZON manager functions:
@@ -37,3 +37,6 @@ In sequential order, below we have each photo running down the list of functions
 <img width="1440" alt="screen shot 2018-03-20 at 12 19 32 am" src="https://user-images.githubusercontent.com/34965292/37640888-c452a7de-2bd4-11e8-8f8a-a0eb3627f632.png">
 <img width="1440" alt="screen shot 2018-03-20 at 12 20 39 am" src="https://user-images.githubusercontent.com/34965292/37640889-c473cf4a-2bd4-11e8-9502-817748a8c2aa.png">
 <img width="1440" alt="screen shot 2018-03-20 at 12 20 49 am" src="https://user-images.githubusercontent.com/34965292/37640891-c4b3ee0e-2bd4-11e8-81d3-f555fff1efd3.png">
+
+# Bamazon Manager GIF: <a href="https://imgflip.com/gif/26qtkb"><img src="https://i.imgflip.com/26qtkb.gif" title="made at imgflip.com"/></a>
+
